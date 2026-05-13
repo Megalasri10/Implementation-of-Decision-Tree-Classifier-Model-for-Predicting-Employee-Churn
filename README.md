@@ -10,12 +10,12 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Algorithm
 1.Get the independent variable X and dependent variable Y.
 2.Calculate the mean of the X -values and the mean of the Y -values.
-3.Find the slope m of the line of best fit using the formula.
-image
+3.Find the slope m of the line of best fit using the formula:
+
 <img width="296" height="134" alt="Screenshot 2026-04-24 142329" src="https://github.com/user-attachments/assets/00ec297a-73f3-4933-b6ba-fdc120b1a3ca" />
 
 4. Compute the y -intercept of the line by using the formula:
-image
+   
 <img width="209" height="51" alt="Screenshot 2026-04-24 142402" src="https://github.com/user-attachments/assets/932e5671-5bd9-4e4b-95b5-6bf41081c6d2" />
 
 5. Use the slope m and the y -intercept to form the equation of the line. 6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
