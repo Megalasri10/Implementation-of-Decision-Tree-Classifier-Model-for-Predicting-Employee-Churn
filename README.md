@@ -125,6 +125,7 @@ else:
 
 ## Output:
 ![decision tree classifier model](sam.png)
+
 <img width="557" height="362" alt="image" src="https://github.com/user-attachments/assets/006b771b-5606-4f7f-8d60-b5f037bf6889" />
 <img width="782" height="333" alt="image" src="https://github.com/user-attachments/assets/f7672179-9406-4038-8e7f-c2de0eabb9a6" />
 <img width="1247" height="802" alt="image" src="https://github.com/user-attachments/assets/ddd8cacc-67f8-4ceb-82f9-ed33da927851" />
